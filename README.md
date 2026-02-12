@@ -4,7 +4,6 @@ O **SysEscolar** é uma plataforma SaaS (Software as a Service) projetada para m
 
 O sistema centraliza processos administrativos, pedagógicos e financeiros em uma interface intuitiva, focada na experiência do usuário e na eficiência operacional.
 
----
 
 ## Funcionalidades Principais
 
@@ -26,8 +25,6 @@ O sistema centraliza processos administrativos, pedagógicos e financeiros em um
 * **Pagamentos Integrados:** Suporte a PIX, Boleto e Cartão de Crédito.
 * **Fluxo de Caixa:** Controle rigoroso de entradas e inadimplência.
 
----
-
 ## Tecnologias Utilizadas
 
 * **Frontend:** [React.js](https://reactjs.org/) / [Tailwind CSS](https://tailwindcss.com/)
@@ -36,8 +33,6 @@ O sistema centraliza processos administrativos, pedagógicos e financeiros em um
 * **Cache:** [Redis](https://redis.io/)
 * **Infraestrutura:** Docker & AWS
 
----
-
 ## Identidade Visual
 
 O projeto segue uma linha de design moderna e limpa:
@@ -45,8 +40,6 @@ O projeto segue uma linha de design moderna e limpa:
 * **Cores Primárias:** Azul Profundo (`#1A237E`) e Verde Água (`#00BFA5`).
 * **Tipografia:** Inter / Montserrat.
 * **Design System:** Baseado em cards com bordas arredondadas (12px) para maior fluidez.
-
----
 
 ## Licença
 
